@@ -1,9 +1,9 @@
-#!name=启动广告
+#!name=AppStartADs
 #!desc=启动广告
 #!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/startingad.png
 #!homepage=https://whatshub.top
 #!author=Mixed
-name: 启动广告
+name: AppStartADs
 desc: 启动广告
 http:
   mitm:
